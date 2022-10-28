@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Geoprocessamento # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Robinson
 middle_name:
 last_name: Barros
@@ -10,7 +10,7 @@ email: robinson.barros@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: # adicionar copyright
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: geoprocessamento, geotecnologies, SIG, GIS, Sensoriamento Remoto, mapas, cartografia, cartography  # add your own keywords or leave empty
 
 lang: pt_BR # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧭 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -29,8 +29,8 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: default           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: graywhite       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: monokai           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
 # RSS Feed
