@@ -6,12 +6,13 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: 1640030415512.jpg
-  image_circular: false # crops the image to make it circular
+  image: 20210626.jpg
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Robinson G. L. Barros</p>
+    <p>Me. em Ciências Ambientais</p>
+    <p>Grupo de Trabalho em Monitoramento Ambiental, Geotecnologia e Ensino </p>
+    <p>Universidade de Pernambuco</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
