@@ -1,32 +1,42 @@
-- title: General Information
+- title: Informações Gerais
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Nome
+      value: Robinson G. L. Barros
+    - name: Residência
+      value: Petrolina - PE
+    - name: Grande Área
+      value: Ciências Exatas e da Terra
+    - name: Área
+      value: Geografia Física
+    - name: Subárea
+      value: Cartografia
 
-- title: Education
+- title: Formação
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Mestrado
+      institution: Universidade de Pernambuco (UPE)
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Dissertação: Desastres Naturais Pluviométricos Urbanos: mapeamento da vulnerabilidade socioambiental da população urbana de Petrolina (PE) às inundações, enchentes e alagamentos."
+        - Bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.
+        - Estágio docência em Cartografia Temática no Colegiado de Geografia.
+    - title: Especialização em Geoprocessamento
+      institution: Faculdade Única de Ipatinga, FUNIP, Brasil
+      year: 2021
+
+    - title: Graduação
+      institution: Universidade de Pernambuco (UPE)
+      year: 2017
+      description:
+        - "TCC: Avaliação Qualitativa e Quantitativa dos Sítios de Geodiversidade do Município de Petrolina-PE."
+        - Bolsista da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.
+        - title: Atividades
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Estágio docência em Cartografia Temática no Colegiado de Geografia.
+            - Jovem Pesquisador pelo Programa de Fortalecimento Acadêmico (PFA), modalidade IC.
+            - Jovem Pesquisador pelo Conselho Nacional de Desenvolvimento Ciêntifico e Tecnológico (CNPq), modalidade IC.
 
 - title: Experience
   type: time_table

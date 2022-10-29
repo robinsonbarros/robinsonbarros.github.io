@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Robinson G. L. Barros</p>
     <p>Geographer</p>
-    <p>MsC in Environmental Sciences</p>
+    <p>MSc in Environmental Sciences</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
