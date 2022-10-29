@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://lattes.cnpq.br/0669389222331954'>Curriculo Lattes</a>. Biografia.
+subtitle: Mais informações no <a href='https://lattes.cnpq.br/0669389222331954'>Curriculo Lattes</a>.
 
 profile:
   align: right
@@ -10,12 +10,11 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>Robinson G. L. Barros</p>
-    <p>Me. em Ciências Ambientais</p>
-    <p>Grupo de Trabalho em Monitoramento Ambiental, Geotecnologia e Ensino </p>
-    <p>Universidade de Pernambuco</p>
+    <p>Geographer</p>
+    <p>MsC in Environmental Sciences</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
