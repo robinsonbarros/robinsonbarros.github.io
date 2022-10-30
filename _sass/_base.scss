@@ -681,7 +681,7 @@ progress {
      background-color: transparent;
    
      /* Progress bar value for IE10  */
-     color: var(--global-theme-color);
+     color: var(--global-progress-bar);
  }
  
  progress::-webkit-progress-bar {
