@@ -9,7 +9,7 @@ profile:
   image: 20210626.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Robinson G. L. Barros</p>
+    <p>Robinson Barros</p>
     <p>Geographer</p>
     <p>MSc in Environmental Sciences</p>
 
