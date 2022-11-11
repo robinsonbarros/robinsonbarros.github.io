@@ -162,6 +162,9 @@ blockquote {
       background-color: var(--global-bg-color);
     }
 }
+#navbar {
+  padding: 0%;
+}
 .navbar.navbar-light {
   a {
     &:hover {
