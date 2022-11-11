@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Sobre
 permalink: /
 subtitle: Mais informações no <a href='https://lattes.cnpq.br/0669389222331954'>Curriculo Lattes</a>.
 
